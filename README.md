@@ -1,4 +1,4 @@
-# monte-carlo-pi-estimation
+# Monte Carlo Pi Estimation
 
 This notebook demonstrates the Monte Carlo method for estimating π, a basic example of how random sampling can solve deterministic problems. We'll explore:
 
